@@ -1,0 +1,9 @@
+2026-02-19 07:45:11,774 - INFO - Pipeline started
+2026-02-19 07:45:15,778 - INFO - Ingestion completed successfully
+2026-02-19 07:45:16,951 - INFO - Extraction and Parquet write completed successfully
+2026-02-19 07:45:16,952 - INFO - Pipeline finished successfully
+2026-02-19 18:29:02,898 - INFO - Pipeline started
+2026-02-19 18:29:07,583 - INFO - Ingestion completed successfully
+2026-02-19 18:29:08,736 - INFO - Extraction and Parquet write completed successfully
+2026-02-19 18:29:08,814 - INFO - Retention cleanup completed
+2026-02-19 18:29:08,814 - INFO - Pipeline finished successfully
